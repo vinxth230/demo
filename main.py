@@ -1,2 +1,3 @@
 print("hello")
-pritnt("hyyy")
+print("hyyy")
+print("hahha")
